@@ -1,0 +1,4 @@
+Issues With Model:
+Model looks at Federal Min Wage (changes very slowly) and Inflation (changes very quickly).
+Model takes Annual Averages, instead of monthly or quaterly data, which could lead to time-series issues (most prevelent with Inflation and Interest rate, not as much with the actual subject matter).
+Model could look at city/state min wages and their corresponding CPI, for more detailed and accurate data, as well as foundation for possible causality models.
