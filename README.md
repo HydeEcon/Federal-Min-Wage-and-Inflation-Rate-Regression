@@ -5,7 +5,7 @@ Using Inflation rate as the depoendent variable, I tried determining if the fede
   * Inflation Rate is the dependent variable
   * Federal minimum wage is the treatment variable
   * Earnings, Housing Price, Interest Rates, Labor Force, Personal consumption, Production and Money Supply were all independet variables to build the model
-  * Data was collected from the BLS and Social Security
+  * Data was collected from the FRED, BLS and Social Security
 
 After Combining and Cleaning the data, this is the correlation matrix that was constructed:
 
