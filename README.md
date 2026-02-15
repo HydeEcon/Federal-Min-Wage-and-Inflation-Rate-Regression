@@ -29,3 +29,5 @@ We can interpret that, due to the low correlation Minimum wage has on Inflation,
 But how much can we increase the Min Wage to, before it does? Conventional Economic Theory proves that increasing wages does impact inflation, so the new question here is how much can we increase the min wage before we sstart seeing statistical significance?
 
 That is another question for another day, but right now, the general agreement is that it should be increased to around $15.00, however after the Covid Pandemic and the economic challenges that followed, there is increasing arguments for it to be pushed even higher.
+
+- Please read the Model Issues Module, for a complete and in depth analysis with full knowledge on the potential flaws in this specific analysis
